@@ -5,6 +5,7 @@ Somos "Usando Ubuntu", un grupo creado para la copa de algoritmia UADE 2024
 
 # Miembros del equipo
 | Gioseffi, Bautista        | 1196771 |   |   |   |
+|---------------------------|---------|---|---|---|
 | Lagares, Santiago         | 1196793 |   |   |   |
 | Mones Ruiz, Ignacio       | 1201656 |   |   |   |
 | Piccinini Zeida, Santiago | 1199632 |   |   |   |
