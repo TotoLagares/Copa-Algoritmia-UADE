@@ -4,10 +4,10 @@
 Somos "Usando Ubuntu", un grupo creado para la copa de algoritmia UADE 2024
 
 # Miembros del equipo
-|Apellido(s), Nombre(s)     |Legajo   |   |   |   |
-|---------------------------|---------|---|---|---|
-| Gioseffi, Bautista        | 1196771 |   |   |   |
-| Lagares, Santiago         | 1196793 |   |   |   |
-| Mones Ruiz, Ignacio       | 1201656 |   |   |   |
-| Piccinini Zeida, Santiago | 1199632 |   |   |   |
+|Apellido(s), Nombre(s)     |Legajo   |Mail Estudiantil   |
+|---------------------------|---------|---|
+| Gioseffi, Bautista        | 1196771 | bgioseffi@uade.edu.ar  |
+| Lagares, Santiago         | 1196793 | slagares@uade.edu.ar  |
+| Mones Ruiz, Ignacio       | 1201656 | imonesruiz@uade.edu.ar  |
+| Piccinini Zeida, Santiago | 1199632 |   |
 
